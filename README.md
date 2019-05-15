@@ -1,3 +1,9 @@
+---
+languages: bash, git
+tags: git, merge, pull, fetch, commit, pull, push, wip
+resources: 5
+---
+
 # Git Flow
 
 ## Objectives
@@ -5,6 +11,10 @@
 * Get familiar with git syntax
 * Get comfortable creating, merging, pushing, and pulling branches
 * Resolve merge conflicts
+
+##Lauren Here:
+
+(╯°□°）╯︵ ┻━┻
 
 ## Instructions
 
